@@ -25,5 +25,6 @@ func testSlice() {
 
 func testMake() {
 
-	a:=make([]int,1,2)
+	a := make([]int, 1, 2)
+	fmt.Println(a)
 }
