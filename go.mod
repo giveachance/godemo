@@ -1,3 +1,3 @@
-module day01
+module godemo
 
 go 1.16
